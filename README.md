@@ -3,6 +3,8 @@
 ## Introduction
 
 Welcome to the repository for the SparkFun BME280 sensor project. This sensor is utilized for measuring humidity and atmospheric pressure, key for weather stations, environmental monitoring, and indoor climate control systems.
+![image](https://github.com/OpuntiaSensorHub/SparkFun_BME280/assets/31825973/e85857c6-3136-4e4b-9c38-d8901ee2688f)
+
 
 ## Features
 
